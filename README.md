@@ -1,4 +1,4 @@
-# Lab 1 - git (zmiania)
+# Projekt Beta
 Pierwsze zdanie opisu
 ## Autor
 Barbara Siekierka
