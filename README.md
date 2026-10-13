@@ -1,4 +1,4 @@
-# Lab 1 - git (zmiania)
+# Projekt Alfa
 Pierwsze zdanie opisu
 ## Autor
 Barbara Siekierka
