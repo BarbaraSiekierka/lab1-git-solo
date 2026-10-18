@@ -3,4 +3,4 @@ Pierwsze zdanie opisu
 ## Autor
 Barbara Siekierka
 Ostatnia linia
-zmiana
+zmiana 2
